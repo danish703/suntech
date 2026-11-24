@@ -850,6 +850,28 @@ a {
   color: var(--text-white);
 }
 
+.cs-developer-credit {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  margin-top: 0.35rem;
+}
+
+.cs-developer-credit .dev-link,
+.cs-footer-social .dev-link {
+  color: var(--primary-green);
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: all var(--transition-fast);
+}
+
+.cs-developer-credit .dev-link:hover,
+.cs-footer-social .dev-link:hover {
+  color: #34d399;
+  text-decoration: underline;
+}
+
 /* Floating WhatsApp Button */
 .floating-whatsapp-btn {
   position: fixed;

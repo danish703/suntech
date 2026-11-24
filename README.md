@@ -23,3 +23,7 @@ Then visit `http://localhost:8085` in your browser.
 - **Mobile / WhatsApp:** +977-9863197410
 - **Email:** info@nepalheatpump.com / nepalheatpump@gmail.com
 - **Facebook:** [facebook.com/nepalheatpump](https://www.facebook.com/nepalheatpump/)
+
+## Developer
+Developed by **[Dipendra K M](https://github.com/danish703)**
+
