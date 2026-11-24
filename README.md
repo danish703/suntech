@@ -6,7 +6,7 @@ Sole Importer & Distributor of German-engineered Suntec thermodynamic heat pump 
 
 ## Features
 - **Coming Soon Announcement:** Official countdown timer to full digital platform launch.
-- **Thermodynamic Savings / ROI Calculator:** Interactive calculator for daily hot water consumption in Nepal, calculating annual savings in Nepali Rupees (NPR) vs traditional electric geysers and boilers.
+- **Product Highlights:** Overview of Residential, Commercial (Hotels/Hospitals), and Swimming Pool & Jacuzzi heat pump systems.
 - **Direct Instant Inquiries:** WhatsApp (`+977 9863197410`), Landline (`01-4442733`), and interactive Quote Modal.
 - **Zero Dependencies:** Pure HTML5, Vanilla CSS, and JavaScript. Fast load times, responsive across mobile and desktop.
 
